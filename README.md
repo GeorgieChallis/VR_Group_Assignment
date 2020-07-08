@@ -14,6 +14,14 @@ OVR Camera Rig and Hands: https://skarredghost.com/2017/01/03/getting-started-wi
 
 Interaction: https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr
 
+# Contributors
+* Rebecca Hough - Project Management, Environment
+* Elliott Waterman - Scripting, Animation
+* Sina Rahmani - Environment, 3D Models
+* James Everett - Audio
+* Georgie Challis - User Interaction
+
+
 # Using Git
 ## Setup
  - Go to a folder for your VR work
