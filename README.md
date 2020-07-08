@@ -1,18 +1,10 @@
-# VR_Group_Assignment
-Immersive virtual environment in a ‘health’ context
+# Group Assignment for Virtual Reality Module
+**Brief:** Create an immersive virtual environment in a ‘health’ context.
 
-Chosen Topic: Address phobias - Aerophobia
+**Chosen Topic:** Address phobias - Aerophobia
 
-VR Plan in Google Docs:
-https://docs.google.com/document/d/1yWoC3ddMJ6CFyRSNvNOk2qZzEkO5hmNihGi_bhzrsfg/edit?usp=sharing
+<img src="https://github.com/GeorgieChallis/VR_Group_Assignment/blob/master/Screenshots/7b63e42f-f6ff-4788-86d1-f5a262459a66_rw_1920.png" width="640">
 
-# Ideas/Links
-New Unity UI + OVR Look-Based Input: https://forums.oculusvr.com/developer/discussion/16710/new-unity-ui-ovr-look-based-input-howto
-Download: https://www.dropbox.com/s/q8zcylzs1ggt24n/LookInputSampleV6.zip?dl=0
-
-OVR Camera Rig and Hands: https://skarredghost.com/2017/01/03/getting-started-with-oculus-touch-and-avatar-sdk-in-unity/
-
-Interaction: https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr
 
 # Contributors
 * Rebecca Hough - Project Management, Environment
@@ -20,6 +12,19 @@ Interaction: https://unity3d.com/learn/tutorials/topics/virtual-reality/interact
 * Sina Rahmani - Environment, 3D Models
 * James Everett - Audio
 * Georgie Challis - User Interaction
+
+---
+
+# Ideas/Links
+VR Plan in Google Docs:
+https://docs.google.com/document/d/1yWoC3ddMJ6CFyRSNvNOk2qZzEkO5hmNihGi_bhzrsfg/edit?usp=sharing
+
+New Unity UI + OVR Look-Based Input: https://forums.oculusvr.com/developer/discussion/16710/new-unity-ui-ovr-look-based-input-howto
+Download: https://www.dropbox.com/s/q8zcylzs1ggt24n/LookInputSampleV6.zip?dl=0
+
+OVR Camera Rig and Hands: https://skarredghost.com/2017/01/03/getting-started-with-oculus-touch-and-avatar-sdk-in-unity/
+
+Interaction: https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr
 
 
 # Using Git
